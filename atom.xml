@@ -3,11 +3,11 @@
   <title>石锅鱼的锅</title>
   
   
-  <link href="/StoneAndFish.github.io/atom.xml" rel="self"/>
+  <link href="/blog.StoneAndFish.xyz/atom.xml" rel="self"/>
   
-  <link href="https://StoneAndFish.github.io/"/>
+  <link href="http://blog.StoneAndFish.xyz/"/>
   <updated>2018-02-28T16:53:25.471Z</updated>
-  <id>https://StoneAndFish.github.io/</id>
+  <id>http://blog.StoneAndFish.xyz/</id>
   
   <author>
     <name>StoneDemo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>[石头 · 记] 一小段人生总结</title>
-    <link href="https://StoneAndFish.github.io/2018/03/01/Stone-2017-Summarize/"/>
-    <id>https://StoneAndFish.github.io/2018/03/01/Stone-2017-Summarize/</id>
+    <link href="http://blog.StoneAndFish.xyz/2018/03/01/Stone-2017-Summarize/"/>
+    <id>http://blog.StoneAndFish.xyz/2018/03/01/Stone-2017-Summarize/</id>
     <published>2018-02-28T16:37:39.000Z</published>
     <updated>2018-02-28T16:53:25.471Z</updated>
     
@@ -33,19 +33,19 @@
     
     </summary>
     
-      <category term="生活" scheme="https://StoneAndFish.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://blog.StoneAndFish.xyz/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="总结" scheme="https://StoneAndFish.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+      <category term="总结" scheme="http://blog.StoneAndFish.xyz/tags/%E6%80%BB%E7%BB%93/"/>
     
-      <category term="小矫情" scheme="https://StoneAndFish.github.io/tags/%E5%B0%8F%E7%9F%AB%E6%83%85/"/>
+      <category term="小矫情" scheme="http://blog.StoneAndFish.xyz/tags/%E5%B0%8F%E7%9F%AB%E6%83%85/"/>
     
   </entry>
   
   <entry>
     <title>[鱼 · 记] 2017</title>
-    <link href="https://StoneAndFish.github.io/2018/02/27/Fish-2017-Summarize/"/>
-    <id>https://StoneAndFish.github.io/2018/02/27/Fish-2017-Summarize/</id>
+    <link href="http://blog.StoneAndFish.xyz/2018/02/27/Fish-2017-Summarize/"/>
+    <id>http://blog.StoneAndFish.xyz/2018/02/27/Fish-2017-Summarize/</id>
     <published>2018-02-27T15:35:42.000Z</published>
     <updated>2018-02-27T16:10:25.737Z</updated>
     
@@ -59,19 +59,19 @@
     
     </summary>
     
-      <category term="生活" scheme="https://StoneAndFish.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://blog.StoneAndFish.xyz/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="总结" scheme="https://StoneAndFish.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+      <category term="总结" scheme="http://blog.StoneAndFish.xyz/tags/%E6%80%BB%E7%BB%93/"/>
     
-      <category term="小矫情" scheme="https://StoneAndFish.github.io/tags/%E5%B0%8F%E7%9F%AB%E6%83%85/"/>
+      <category term="小矫情" scheme="http://blog.StoneAndFish.xyz/tags/%E5%B0%8F%E7%9F%AB%E6%83%85/"/>
     
   </entry>
   
   <entry>
     <title>[翻译社第二期] 探索AI技术，科技引领未来</title>
-    <link href="https://StoneAndFish.github.io/2018/02/27/Translation2nd/"/>
-    <id>https://StoneAndFish.github.io/2018/02/27/Translation2nd/</id>
+    <link href="http://blog.StoneAndFish.xyz/2018/02/27/Translation2nd/"/>
+    <id>http://blog.StoneAndFish.xyz/2018/02/27/Translation2nd/</id>
     <published>2018-02-27T13:02:33.000Z</published>
     <updated>2018-02-27T14:56:27.965Z</updated>
     
@@ -96,21 +96,21 @@
     
     </summary>
     
-      <category term="翻译" scheme="https://StoneAndFish.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+      <category term="翻译" scheme="http://blog.StoneAndFish.xyz/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-      <category term="Translation" scheme="https://StoneAndFish.github.io/tags/Translation/"/>
+      <category term="Translation" scheme="http://blog.StoneAndFish.xyz/tags/Translation/"/>
     
-      <category term="技术文档翻译" scheme="https://StoneAndFish.github.io/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/"/>
+      <category term="技术文档翻译" scheme="http://blog.StoneAndFish.xyz/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/"/>
     
-      <category term="腾讯云+翻译社" scheme="https://StoneAndFish.github.io/tags/%E8%85%BE%E8%AE%AF%E4%BA%91-%E7%BF%BB%E8%AF%91%E7%A4%BE/"/>
+      <category term="腾讯云+翻译社" scheme="http://blog.StoneAndFish.xyz/tags/%E8%85%BE%E8%AE%AF%E4%BA%91-%E7%BF%BB%E8%AF%91%E7%A4%BE/"/>
     
   </entry>
   
   <entry>
     <title>[到此一游] 日式和风之御温泉</title>
-    <link href="https://StoneAndFish.github.io/2018/01/23/YuWenQuan2018/"/>
-    <id>https://StoneAndFish.github.io/2018/01/23/YuWenQuan2018/</id>
+    <link href="http://blog.StoneAndFish.xyz/2018/01/23/YuWenQuan2018/"/>
+    <id>http://blog.StoneAndFish.xyz/2018/01/23/YuWenQuan2018/</id>
     <published>2018-01-22T16:13:52.000Z</published>
     <updated>2018-01-24T15:19:13.391Z</updated>
     
@@ -124,19 +124,19 @@
     
     </summary>
     
-      <category term="生活" scheme="https://StoneAndFish.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://blog.StoneAndFish.xyz/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="度假" scheme="https://StoneAndFish.github.io/tags/%E5%BA%A6%E5%81%87/"/>
+      <category term="度假" scheme="http://blog.StoneAndFish.xyz/tags/%E5%BA%A6%E5%81%87/"/>
     
-      <category term="游记" scheme="https://StoneAndFish.github.io/tags/%E6%B8%B8%E8%AE%B0/"/>
+      <category term="游记" scheme="http://blog.StoneAndFish.xyz/tags/%E6%B8%B8%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>[翻译社第一期] 云计算相关技术前瞻性研究</title>
-    <link href="https://StoneAndFish.github.io/2018/01/19/Translation1st/"/>
-    <id>https://StoneAndFish.github.io/2018/01/19/Translation1st/</id>
+    <link href="http://blog.StoneAndFish.xyz/2018/01/19/Translation1st/"/>
+    <id>http://blog.StoneAndFish.xyz/2018/01/19/Translation1st/</id>
     <published>2018-01-19T11:18:56.000Z</published>
     <updated>2018-02-27T13:23:26.622Z</updated>
     
@@ -156,25 +156,25 @@
     
     </summary>
     
-      <category term="翻译" scheme="https://StoneAndFish.github.io/categories/%E7%BF%BB%E8%AF%91/"/>
+      <category term="翻译" scheme="http://blog.StoneAndFish.xyz/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-      <category term="Translation" scheme="https://StoneAndFish.github.io/tags/Translation/"/>
+      <category term="Translation" scheme="http://blog.StoneAndFish.xyz/tags/Translation/"/>
     
-      <category term="技术文档翻译" scheme="https://StoneAndFish.github.io/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/"/>
+      <category term="技术文档翻译" scheme="http://blog.StoneAndFish.xyz/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/"/>
     
-      <category term="腾讯云+翻译社" scheme="https://StoneAndFish.github.io/tags/%E8%85%BE%E8%AE%AF%E4%BA%91-%E7%BF%BB%E8%AF%91%E7%A4%BE/"/>
+      <category term="腾讯云+翻译社" scheme="http://blog.StoneAndFish.xyz/tags/%E8%85%BE%E8%AE%AF%E4%BA%91-%E7%BF%BB%E8%AF%91%E7%A4%BE/"/>
     
   </entry>
   
   <entry>
     <title>基于 Hexo3 与 Github 搭建个人博客（Win7）</title>
-    <link href="https://StoneAndFish.github.io/2018/01/16/%E5%9F%BA%E4%BA%8Ehexo3%E4%B8%8Egithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://StoneAndFish.github.io/2018/01/16/基于hexo3与github搭建个人博客/</id>
+    <link href="http://blog.StoneAndFish.xyz/2018/01/16/%E5%9F%BA%E4%BA%8Ehexo3%E4%B8%8Egithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://blog.StoneAndFish.xyz/2018/01/16/基于hexo3与github搭建个人博客/</id>
     <published>2018-01-16T12:56:52.000Z</published>
     <updated>2018-01-20T11:38:01.009Z</updated>
     
-    <content type="html"><![CDATA[<hr><h1 id="参考教程"><a href="#参考教程" class="headerlink" title="参考教程"></a>参考教程</h1><ol><li><a href="http://www.cnblogs.com/dantefung/p/d8c48ba8030bcab7cfc364d423186fee.html" target="_blank" rel="noopener">Hexo+github 搭建个人博客</a></li><li><a href="https://www.jianshu.com/p/a2fe56d11c4f" target="_blank" rel="noopener">搭建 Hexo 博客中碰到的坑</a></li><li><a href="https://www.jianshu.com/p/5d5931289c09" target="_blank" rel="noopener">Next 主题使用介绍</a></li><li><a href="http://blog.csdn.net/sugar_rainbow/article/details/57415705" target="_blank" rel="noopener">hexo生成博文插入图片</a></li></ol><hr><a id="more"></a><h1 id="下载安装必要的工具"><a href="#下载安装必要的工具" class="headerlink" title="下载安装必要的工具"></a>下载安装必要的工具</h1><h2 id="Nodejs-8-9-4-LTS"><a href="#Nodejs-8-9-4-LTS" class="headerlink" title="Nodejs 8.9.4 LTS"></a>Nodejs 8.9.4 LTS</h2><ul><li>由于 Hexo 是基于 Nodejs 的，所以需要相应的环境。</li><li>下载地址：<a href="https://nodejs.org/en/" target="_blank" rel="noopener">Nodejs</a></li><li>进入上述网站，找到合适的版本下载，由于我下的是 Windows 的 8.9.4 LTS 版，所以接下来的步骤都是按照这个版本进行的。</li><li>下载完成后获得一个 <code>.msi</code> 文件（Windows Installer 程序包），双击一路 <code>next</code> 安装即可。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_1.png" alt="@图1. 下载 nodejs"></li><li>安装完成后，环境变量应该自动配置好了（我所安装的版本是这样的），如果是旧的版本，可能没有自动配置，就自己去设置一下 <code>PATH</code>，添加 nodejs 安装路径即可。</li></ul><h2 id="Git-Bash"><a href="#Git-Bash" class="headerlink" title="Git Bash"></a>Git Bash</h2><ul><li>在 Windows 下，需要这个特殊的命令行工具来操作 git。</li><li>下载地址：<a href="http://gitforwindows.org/" target="_blank" rel="noopener">Git Bash</a></li><li>直接下载一个最新版本即可，获得安装包后也是一路 <code>next</code> ，安装路径需要更改的就改一下就好。不过在环境配置的那一步，我选了 <code>Use Git from Git Bash only</code>，就是只在 Git Bash 里面使用 Git，因为以前安装的时候用了默认的第二个选项，之后使用 Win7 命令行时候出现了许多不明所以的问题……<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_2.png" alt="@图2. Git Bash 安装步骤之一"></li></ul><h2 id="MarkDown-编译器"><a href="#MarkDown-编译器" class="headerlink" title="MarkDown 编译器"></a>MarkDown 编译器</h2><ul><li>通过 hexo 建立的博客文件都是 <code>.md</code> 文件，所以我们需要一个 markdown 编辑器来方便博客的编写与预览。这里我选择的是马克飞象，因为我一直用它和印象笔记来做笔记的。</li><li>官方地址：<a href="https://maxiang.io/" target="_blank" rel="noopener">马克飞象</a></li><li>进入网站后，点击 “账号” 按键，侧边栏出现后点击 “下载桌面客户端” 就可以了。这个安装配置也没什么好说的，也是一路 <code>next</code> 搞定。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_3.png" alt="@图3. 马克飞象桌面版下载"></li></ul><hr><h1 id="安装-Hexo-并搭建博客"><a href="#安装-Hexo-并搭建博客" class="headerlink" title="安装 Hexo 并搭建博客"></a>安装 Hexo 并搭建博客</h1><ul><li>注意，首先需要打开 Git Bash，之后的操作都会基于它来进行。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_4.png" alt="@图4. Git Bash 界面"></li></ul><h2 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h2><ul><li>进入之前安装 nodejs 的目录下，再输入命令 <code>npm install -g hexo</code> 安装 hexo。</li><li>注意，这个安装比较久，不知道是不是因为墙的原因导致下载速度慢，有次我安装要十多分钟才完成，所以这一步可能需要等待较长时间。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_5.png" alt="@图5. 使用 npm 命令安装 hexo"></li></ul><h2 id="搭建一个最基本的博客"><a href="#搭建一个最基本的博客" class="headerlink" title="搭建一个最基本的博客"></a>搭建一个最基本的博客</h2><ol><li><p>到你想保存博客相关文件的目录下，创建一个文件夹并进入。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_6.png" alt="@图6. 创建 Blog 目录并进入"></p></li><li><p>接下来执行命令：</p><ul><li><code>hexo init</code>：初始化 hexo</li><li><code>npm install</code>：安装相应的依赖包</li><li><code>hexo g</code>：生成静态页面（以后更新博客或修改配置后，都要使用这个命令更新）</li><li><code>hexo s -p 9090</code>：启动 hexo-server 并设定端口为 <code>9090</code>（随便找个没用到的端口，它默认为 <code>4000</code>，但这个端口总被占用，导致启动成功后总是进不了 <code>localhost:4000</code> 的页面）</li><li><strong>在启动 server 时注意一个问题，如果 hexo-server 对博客文件夹没有执行权限，就会导致启动失败并报错。我最初是在 Win7 虚拟机下操作，然后进入到从 Ubuntu 挂过来的网络路径中创建博客文件夹，然后启动 server 时报了一个 <code>EPERM</code> 相关的错误。</strong></li></ul></li><li>打开 <code>http://localhost:9090/</code> 即可查看生成的博客的本地预览，看到如下界面就是成功了。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_7.png" alt="@图7. 最初博客本地预览"></li></ol><h2 id="将博客部署到-Git-Pages"><a href="#将博客部署到-Git-Pages" class="headerlink" title="将博客部署到 Git Pages"></a>将博客部署到 Git Pages</h2><ul><li>目前为止所得到的都是本地的博客，想要让别人能通过网络访问，就需要进行一些必要的配置了。直接在自己的机子上搭建环境，或者去租个云服务器之类的，也可以，不过这些操作相对来说会比较麻烦。</li><li>一个很简单有效的方式，就是利用 Git Pages （免费的）来直接部署博客。<ul><li>首先要到 <a href="https://github.com/" target="_blank" rel="noopener">Github</a> 官网注册一个账号，当然如果你有过了就省略这步。</li><li>新建一个仓库：<ul><li>仓库名称设定<strong>必须</strong>是 <code>你的Github账户名.github.io</code> </li><li>记得勾选初始化一个 <code>README</code>，不然可能之后的一些步骤会有报错。</li><li>注意：图中仓库名设置出现警告，是因为我已经创建过这个仓库了。</li></ul></li></ul></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_8.png" alt="@图8. Github 新建仓库之其一"></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_9.png" alt="@图9. Github 新建仓库之其二"><ul><li>仓库建好后，进入其设置界面，查看 Git Pages 相关设置是 OK 的就行。</li></ul></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_10.png" alt="@图10. Git Pages 设置之其一"></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_11.png" alt="@图11. Git Pages 设置之其二"><ul><li>打开之前创建的博客文件夹，其目录结构如下，其中的 <code>.yml</code> 文件就是基本配置文件。</li><li>打开 <code>.yml</code> 文件，修改几处：<ul><li>注意，冒号之后必须带有一个空格。并且建议不要复制粘贴，所有输入纯手打，因为 hexo3 似乎对配置文件内容要求很严格。我原先是把地址复制粘贴进来，导致最终部署时候出现各种各样的问题。</li><li><code>type</code>：设定为 <code>git</code></li><li><code>repository</code>：设定为<code>自己的 github 项目地址</code></li><li><code>branch</code>：使用 <code>master</code> 即可</li><li><code>url</code>：设定为 <code>git pages 地址</code>（如果没设定这个，配置主题后很可能会找不到 js 与 css 文件，导致页面只有文本。）</li></ul></li></ul></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_12.png" alt="@图12. yml 配置之其一"></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_13.png" alt="@图13. yml 配置之其二"></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_14.png" alt="@图14. yml 配置之其三"><ul><li>完成配置后，回到 Git Bash，执行下面几个命令：<ul><li><code>npm install hexo-deployer-git --save</code>（这是 hexo3 必须要有的，否则部署时会一直报错）</li><li><code>hexo g</code></li><li>（<code>hexo s</code>，可以先本地预览看看效果）</li><li><code>hexo d</code>（部署到 git pages 上）</li></ul></li><li>完成后，登陆你的 git pages 地址就能看到最终效果了。</li></ul></li></ul><h2 id="发布新文章"><a href="#发布新文章" class="headerlink" title="发布新文章"></a>发布新文章</h2><ul><li>原本是用命令 <code>hexo new &quot;New Filename&quot;</code> 来在博客目录下的 <code>source/_post</code> 文件夹下生成一个 <code>md</code> 文件，然后通过完善该文件来写文章的。</li><li>但使用马克飞象时，似乎无法直接打开生成的 <code>md</code> 文件，所以就要先在马克飞象中写好文章，然后将文章导出为 Markdown 文件到对应目录即可。</li><li>注意，导出的 Markdown 格式上可能与 <code>new</code> 出来的那些有些不同，所以需要照着原来的 <code>HelloWorld</code> 文件修改一下格式（主要是 <code>title</code>），不然发布后可能会出现文章题目不对之类的问题。</li><li>完成文章后，回到博客目录下，执行 <code>hexo g -d</code> 即可。</li></ul><h2 id="删除文章"><a href="#删除文章" class="headerlink" title="删除文章"></a>删除文章</h2><ul><li>与发布类似，通过将 <code>source/_post</code> 下的文章对应的 <code>md</code> 文件删除，然后执行 <code>hexo g -d</code> 即可。</li></ul><hr><h1 id="设置博客主题"><a href="#设置博客主题" class="headerlink" title="设置博客主题"></a>设置博客主题</h1><ul><li>不知道你会不会觉得默认的主题不好看，反正我是觉得比较难看……</li><li>所以我们可以到 <a href="https://hexo.io/themes/" target="_blank" rel="noopener">hexo主题</a> 上面去找个心仪的主题来给自己的博客进行美化。</li><li>我选择的是 Next 主题，我比较喜欢它的简约风格：<ul><li>首先进入主题的 git 页面，记下其项目地址：<code>https://github.com/iissnan/hexo-theme-next</code></li><li>到博客目录下，执行：<code>git clone https://github.com/iissnan/hexo-theme-next themes/next</code></li><li>找个小图当头像，保存到 source/_uploads （新建这个文件夹）下，我这里命名为 <code>first.png</code></li><li>修改博客 <code>yml</code> 文件：<ul><li><code>theme: next</code>（设置主题为 <code>next</code>，这个名对应着 <code>themes/next</code>）</li><li><code>language: zh-Hans</code>（设置语言为中文简体）</li><li><code>title</code>（博客名）、<code>author</code>（你的昵称）、<code>description</code>（一些描述，如同 QQ 签名一般的存在），这些就按照个人喜好改掉就好。</li><li>在文件最末尾新加一个字段：<code>avatar: /_uploads/first.png</code></li></ul></li><li>到 <code>themes/next</code> 中修改 <code>yml</code> 文件：<code>scheme: Pisces</code>（这步只是切换风格，不改就是默认的风格）</li><li>重新生成博客：<code>hexo g</code></li><li>本地预览博客：<code>hexo s -p 9090</code></li><li>最终部署博客：<code>hexo d</code></li></ul></li><li><a href="https://stoneandfish.github.io/">大功告成</a>。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_15.png" alt="@图15. 最终界面"></li></ul>]]></content>
+    <content type="html"><![CDATA[<hr><h1 id="参考教程"><a href="#参考教程" class="headerlink" title="参考教程"></a>参考教程</h1><ol><li><a href="http://www.cnblogs.com/dantefung/p/d8c48ba8030bcab7cfc364d423186fee.html" target="_blank" rel="noopener">Hexo+github 搭建个人博客</a></li><li><a href="https://www.jianshu.com/p/a2fe56d11c4f" target="_blank" rel="noopener">搭建 Hexo 博客中碰到的坑</a></li><li><a href="https://www.jianshu.com/p/5d5931289c09" target="_blank" rel="noopener">Next 主题使用介绍</a></li><li><a href="http://blog.csdn.net/sugar_rainbow/article/details/57415705" target="_blank" rel="noopener">hexo生成博文插入图片</a></li></ol><hr><a id="more"></a><h1 id="下载安装必要的工具"><a href="#下载安装必要的工具" class="headerlink" title="下载安装必要的工具"></a>下载安装必要的工具</h1><h2 id="Nodejs-8-9-4-LTS"><a href="#Nodejs-8-9-4-LTS" class="headerlink" title="Nodejs 8.9.4 LTS"></a>Nodejs 8.9.4 LTS</h2><ul><li>由于 Hexo 是基于 Nodejs 的，所以需要相应的环境。</li><li>下载地址：<a href="https://nodejs.org/en/" target="_blank" rel="noopener">Nodejs</a></li><li>进入上述网站，找到合适的版本下载，由于我下的是 Windows 的 8.9.4 LTS 版，所以接下来的步骤都是按照这个版本进行的。</li><li>下载完成后获得一个 <code>.msi</code> 文件（Windows Installer 程序包），双击一路 <code>next</code> 安装即可。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_1.png" alt="@图1. 下载 nodejs"></li><li>安装完成后，环境变量应该自动配置好了（我所安装的版本是这样的），如果是旧的版本，可能没有自动配置，就自己去设置一下 <code>PATH</code>，添加 nodejs 安装路径即可。</li></ul><h2 id="Git-Bash"><a href="#Git-Bash" class="headerlink" title="Git Bash"></a>Git Bash</h2><ul><li>在 Windows 下，需要这个特殊的命令行工具来操作 git。</li><li>下载地址：<a href="http://gitforwindows.org/" target="_blank" rel="noopener">Git Bash</a></li><li>直接下载一个最新版本即可，获得安装包后也是一路 <code>next</code> ，安装路径需要更改的就改一下就好。不过在环境配置的那一步，我选了 <code>Use Git from Git Bash only</code>，就是只在 Git Bash 里面使用 Git，因为以前安装的时候用了默认的第二个选项，之后使用 Win7 命令行时候出现了许多不明所以的问题……<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_2.png" alt="@图2. Git Bash 安装步骤之一"></li></ul><h2 id="MarkDown-编译器"><a href="#MarkDown-编译器" class="headerlink" title="MarkDown 编译器"></a>MarkDown 编译器</h2><ul><li>通过 hexo 建立的博客文件都是 <code>.md</code> 文件，所以我们需要一个 markdown 编辑器来方便博客的编写与预览。这里我选择的是马克飞象，因为我一直用它和印象笔记来做笔记的。</li><li>官方地址：<a href="https://maxiang.io/" target="_blank" rel="noopener">马克飞象</a></li><li>进入网站后，点击 “账号” 按键，侧边栏出现后点击 “下载桌面客户端” 就可以了。这个安装配置也没什么好说的，也是一路 <code>next</code> 搞定。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_3.png" alt="@图3. 马克飞象桌面版下载"></li></ul><hr><h1 id="安装-Hexo-并搭建博客"><a href="#安装-Hexo-并搭建博客" class="headerlink" title="安装 Hexo 并搭建博客"></a>安装 Hexo 并搭建博客</h1><ul><li>注意，首先需要打开 Git Bash，之后的操作都会基于它来进行。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_4.png" alt="@图4. Git Bash 界面"></li></ul><h2 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h2><ul><li>进入之前安装 nodejs 的目录下，再输入命令 <code>npm install -g hexo</code> 安装 hexo。</li><li>注意，这个安装比较久，不知道是不是因为墙的原因导致下载速度慢，有次我安装要十多分钟才完成，所以这一步可能需要等待较长时间。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_5.png" alt="@图5. 使用 npm 命令安装 hexo"></li></ul><h2 id="搭建一个最基本的博客"><a href="#搭建一个最基本的博客" class="headerlink" title="搭建一个最基本的博客"></a>搭建一个最基本的博客</h2><ol><li><p>到你想保存博客相关文件的目录下，创建一个文件夹并进入。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_6.png" alt="@图6. 创建 Blog 目录并进入"></p></li><li><p>接下来执行命令：</p><ul><li><code>hexo init</code>：初始化 hexo</li><li><code>npm install</code>：安装相应的依赖包</li><li><code>hexo g</code>：生成静态页面（以后更新博客或修改配置后，都要使用这个命令更新）</li><li><code>hexo s -p 9090</code>：启动 hexo-server 并设定端口为 <code>9090</code>（随便找个没用到的端口，它默认为 <code>4000</code>，但这个端口总被占用，导致启动成功后总是进不了 <code>localhost:4000</code> 的页面）</li><li><strong>在启动 server 时注意一个问题，如果 hexo-server 对博客文件夹没有执行权限，就会导致启动失败并报错。我最初是在 Win7 虚拟机下操作，然后进入到从 Ubuntu 挂过来的网络路径中创建博客文件夹，然后启动 server 时报了一个 <code>EPERM</code> 相关的错误。</strong></li></ul></li><li>打开 <code>http://localhost:9090/</code> 即可查看生成的博客的本地预览，看到如下界面就是成功了。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_7.png" alt="@图7. 最初博客本地预览"></li></ol><h2 id="将博客部署到-Git-Pages"><a href="#将博客部署到-Git-Pages" class="headerlink" title="将博客部署到 Git Pages"></a>将博客部署到 Git Pages</h2><ul><li>目前为止所得到的都是本地的博客，想要让别人能通过网络访问，就需要进行一些必要的配置了。直接在自己的机子上搭建环境，或者去租个云服务器之类的，也可以，不过这些操作相对来说会比较麻烦。</li><li>一个很简单有效的方式，就是利用 Git Pages （免费的）来直接部署博客。<ul><li>首先要到 <a href="https://github.com/" target="_blank" rel="noopener">Github</a> 官网注册一个账号，当然如果你有过了就省略这步。</li><li>新建一个仓库：<ul><li>仓库名称设定<strong>必须</strong>是 <code>你的Github账户名.github.io</code> </li><li>记得勾选初始化一个 <code>README</code>，不然可能之后的一些步骤会有报错。</li><li>注意：图中仓库名设置出现警告，是因为我已经创建过这个仓库了。</li></ul></li></ul></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_8.png" alt="@图8. Github 新建仓库之其一"></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_9.png" alt="@图9. Github 新建仓库之其二"><ul><li>仓库建好后，进入其设置界面，查看 Git Pages 相关设置是 OK 的就行。</li></ul></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_10.png" alt="@图10. Git Pages 设置之其一"></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_11.png" alt="@图11. Git Pages 设置之其二"><ul><li>打开之前创建的博客文件夹，其目录结构如下，其中的 <code>.yml</code> 文件就是基本配置文件。</li><li>打开 <code>.yml</code> 文件，修改几处：<ul><li>注意，冒号之后必须带有一个空格。并且建议不要复制粘贴，所有输入纯手打，因为 hexo3 似乎对配置文件内容要求很严格。我原先是把地址复制粘贴进来，导致最终部署时候出现各种各样的问题。</li><li><code>type</code>：设定为 <code>git</code></li><li><code>repository</code>：设定为<code>自己的 github 项目地址</code></li><li><code>branch</code>：使用 <code>master</code> 即可</li><li><code>url</code>：设定为 <code>git pages 地址</code>（如果没设定这个，配置主题后很可能会找不到 js 与 css 文件，导致页面只有文本。）</li></ul></li></ul></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_12.png" alt="@图12. yml 配置之其一"></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_13.png" alt="@图13. yml 配置之其二"></li><li><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_14.png" alt="@图14. yml 配置之其三"><ul><li>完成配置后，回到 Git Bash，执行下面几个命令：<ul><li><code>npm install hexo-deployer-git --save</code>（这是 hexo3 必须要有的，否则部署时会一直报错）</li><li><code>hexo g</code></li><li>（<code>hexo s</code>，可以先本地预览看看效果）</li><li><code>hexo d</code>（部署到 git pages 上）</li></ul></li><li>完成后，登陆你的 git pages 地址就能看到最终效果了。</li></ul></li></ul><h2 id="发布新文章"><a href="#发布新文章" class="headerlink" title="发布新文章"></a>发布新文章</h2><ul><li>原本是用命令 <code>hexo new &quot;New Filename&quot;</code> 来在博客目录下的 <code>source/_post</code> 文件夹下生成一个 <code>md</code> 文件，然后通过完善该文件来写文章的。</li><li>但使用马克飞象时，似乎无法直接打开生成的 <code>md</code> 文件，所以就要先在马克飞象中写好文章，然后将文章导出为 Markdown 文件到对应目录即可。</li><li>注意，导出的 Markdown 格式上可能与 <code>new</code> 出来的那些有些不同，所以需要照着原来的 <code>HelloWorld</code> 文件修改一下格式（主要是 <code>title</code>），不然发布后可能会出现文章题目不对之类的问题。</li><li>完成文章后，回到博客目录下，执行 <code>hexo g -d</code> 即可。</li></ul><h2 id="删除文章"><a href="#删除文章" class="headerlink" title="删除文章"></a>删除文章</h2><ul><li>与发布类似，通过将 <code>source/_post</code> 下的文章对应的 <code>md</code> 文件删除，然后执行 <code>hexo g -d</code> 即可。</li></ul><hr><h1 id="设置博客主题"><a href="#设置博客主题" class="headerlink" title="设置博客主题"></a>设置博客主题</h1><ul><li>不知道你会不会觉得默认的主题不好看，反正我是觉得比较难看……</li><li>所以我们可以到 <a href="https://hexo.io/themes/" target="_blank" rel="noopener">hexo主题</a> 上面去找个心仪的主题来给自己的博客进行美化。</li><li>我选择的是 Next 主题，我比较喜欢它的简约风格：<ul><li>首先进入主题的 git 页面，记下其项目地址：<code>https://github.com/iissnan/hexo-theme-next</code></li><li>到博客目录下，执行：<code>git clone https://github.com/iissnan/hexo-theme-next themes/next</code></li><li>找个小图当头像，保存到 source/_uploads （新建这个文件夹）下，我这里命名为 <code>first.png</code></li><li>修改博客 <code>yml</code> 文件：<ul><li><code>theme: next</code>（设置主题为 <code>next</code>，这个名对应着 <code>themes/next</code>）</li><li><code>language: zh-Hans</code>（设置语言为中文简体）</li><li><code>title</code>（博客名）、<code>author</code>（你的昵称）、<code>description</code>（一些描述，如同 QQ 签名一般的存在），这些就按照个人喜好改掉就好。</li><li>在文件最末尾新加一个字段：<code>avatar: /_uploads/first.png</code></li></ul></li><li>到 <code>themes/next</code> 中修改 <code>yml</code> 文件：<code>scheme: Pisces</code>（这步只是切换风格，不改就是默认的风格）</li><li>重新生成博客：<code>hexo g</code></li><li>本地预览博客：<code>hexo s -p 9090</code></li><li>最终部署博客：<code>hexo d</code></li></ul></li><li><a href="https://stoneandfish.github.io/" target="_blank" rel="noopener">大功告成</a>。<br><img src="http://p2qnogvkv.bkt.clouddn.com/blogImage/setUpBlog/pic_15.png" alt="@图15. 最终界面"></li></ul>]]></content>
     
     <summary type="html">
     
@@ -189,14 +189,14 @@
     
     </summary>
     
-      <category term="技术" scheme="https://StoneAndFish.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://blog.StoneAndFish.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="hexo" scheme="https://StoneAndFish.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="http://blog.StoneAndFish.xyz/tags/hexo/"/>
     
-      <category term="Github" scheme="https://StoneAndFish.github.io/tags/Github/"/>
+      <category term="Github" scheme="http://blog.StoneAndFish.xyz/tags/Github/"/>
     
-      <category term="GitPages" scheme="https://StoneAndFish.github.io/tags/GitPages/"/>
+      <category term="GitPages" scheme="http://blog.StoneAndFish.xyz/tags/GitPages/"/>
     
   </entry>
   
