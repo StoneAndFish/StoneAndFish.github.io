@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.StoneAndFish.xyz/about/index.html</loc>
+    
+    <lastmod>2018-03-29T15:49:52.314Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.StoneAndFish.xyz/2018/03/29/Translation3rd/</loc>
     
     <lastmod>2018-03-29T11:32:30.584Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>http://blog.StoneAndFish.xyz/2018/01/23/YuWenQuan2018/</loc>
     
     <lastmod>2018-01-24T15:19:13.391Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.StoneAndFish.xyz/about/index.html</loc>
-    
-    <lastmod>2018-01-20T11:42:15.080Z</lastmod>
     
   </url>
   
