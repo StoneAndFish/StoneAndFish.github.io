@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.StoneAndFish.xyz/"/>
-  <updated>2018-07-19T15:20:19.159Z</updated>
+  <updated>2018-09-02T08:20:04.757Z</updated>
   <id>http://blog.StoneAndFish.xyz/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[翻译社第七期] 网络安全的技术应用</title>
+    <link href="http://blog.StoneAndFish.xyz/2018/09/02/Translation7th/"/>
+    <id>http://blog.StoneAndFish.xyz/2018/09/02/Translation7th/</id>
+    <published>2018-09-02T08:19:00.000Z</published>
+    <updated>2018-09-02T08:20:04.757Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://p2qnogvkv.bkt.clouddn.com/image/translation/TransClub_v1_1.png" alt=""></p><h1 id="本期成果"><a href="#本期成果" class="headerlink" title="本期成果"></a>本期成果</h1><ul><li><a href="https://cloud.tencent.com/developer/article/1161345" target="_blank" rel="noopener">给数据科学家的十条数据安全建议</a>（专栏采纳）</li><li><a href="https://cloud.tencent.com/developer/article/1161341" target="_blank" rel="noopener">SSH 尝试攻击是什么样子的</a>（专栏采纳）</li><li><a href="https://cloud.tencent.com/developer/article/1165213" target="_blank" rel="noopener">量子跃迁：量子计算对加密技术来说意味着什么？</a>（专栏采纳）</li><li><a href="https://cloud.tencent.com/developer/article/1180081" target="_blank" rel="noopener">做这 12 件简单的小事，能让你更安全地上网</a>（个人专栏）<a id="more"></a></li></ul><h1 id="心得体会"><a href="#心得体会" class="headerlink" title="心得体会"></a>心得体会</h1><p>（本期划水…）</p><h1 id="学习记录"><a href="#学习记录" class="headerlink" title="学习记录"></a>学习记录</h1><h2 id="专业术语"><a href="#专业术语" class="headerlink" title="专业术语"></a>专业术语</h2><ul><li><strong>Authenticator app：</strong>身份验证器应用。</li><li><strong>Two-factor authentication：</strong>双因子身份验证。</li><li><strong>PII（Personally-identifiable information）：</strong>个人身份信息。</li><li><strong>De-identified：</strong>去识别化。</li><li><strong>Honeypot：</strong>蜜罐。</li><li><strong>SSH Hacking Attempt：</strong>SSH 攻击。</li><li><strong>Worm：</strong>蠕虫病毒。</li><li><strong>Malware：</strong>恶意软件。</li><li><strong>Quantum leap：</strong>量子跃迁。</li><li><strong>Quantum superposition：</strong>量子叠加。</li><li><strong>Qubit：</strong>量子位。</li><li><strong>Entangled states：</strong>纠缠态。</li><li><strong>Asymmetric key：</strong>非对称密钥。</li><li><strong>Public key：</strong>公钥。</li><li><strong>Supercomputer：</strong>超级计算机。</li><li><strong>Post-quantum cryptography：</strong>后量子密码技术。</li><li><strong>Ransomware：</strong>勒索软件。</li><li><strong>Antivirus：</strong>杀毒软件。</li><li><strong>Trojan horse：</strong>特洛伊木马。</li><li><strong>Denial of service attack：</strong>DOS，拒绝服务攻击。</li><li><strong>Potentially Unwanted Applications：</strong>潜在不需要的应用程序。</li><li><strong>Alphanumeric Code：</strong>字母数字码。</li></ul><h2 id="短语翻译"><a href="#短语翻译" class="headerlink" title="短语翻译"></a>短语翻译</h2><table><thead><tr><th>原文</th><th>译文</th></tr></thead><tbody><tr><td>a handful of</td><td>一小撮；极少数</td></tr><tr><td>keep track of</td><td>记录；与…保持联系</td></tr><tr><td>mess around with</td><td>胡乱使用</td></tr><tr><td>do your research</td><td>做好调查</td></tr><tr><td>need to know basis</td><td>“需要知道” 的基础上</td></tr><tr><td>plenty of</td><td>大量，许多</td></tr><tr><td>Along the same lines</td><td>同时；沿着相同路线</td></tr><tr><td>over-matched</td><td>劲敌，高手</td></tr><tr><td>Ironically</td><td>具有讽刺意味的是</td></tr><tr><td>fend off</td><td>挡住，避开</td></tr><tr><td>flip through</td><td>草草翻阅；浏览</td></tr></tbody></table><h2 id="长句翻译"><a href="#长句翻译" class="headerlink" title="长句翻译"></a>长句翻译</h2><table><thead><tr><th>原文</th><th>译文</th></tr></thead><tbody><tr><td>Queue the honeypot concept. A “honeypot” is an intentionally vulnerable “thing” that can be used to study malicious traffic and activity on a network. This “thing” can be anything, a single port on a server, an HTML element on a webpage, or even a network with multiple servers. Once it’s set up, any malicious traffic towards the server can be studied and turned into actionable intel.</td><td>先来梳理一下蜜罐（Honeypot）的概念。“蜜罐” 是一种故意置于易受攻击状态的 “东西”，它可用于研究网络上的恶意流量与活动。这个 “东西” 可以是任何事物 —— 服务器上的单个端口，网页上的某个 HTML 元素，甚至是具有多个服务器的网络。一旦设置完成，任何针对服务器的恶意流量都可以被研究分析，并转变为有用的信息。</td></tr><tr><td>This Raspberry Pi Botnet malware did quite quite a few other things and I plan to get around to an entire post dedicated to dissecting that.</td><td>这个 Raspberry Pi Botnet 恶意软件做了很多其他的事情，我打算在一个完整的帖子里把它剖析出来。</td></tr><tr><td>What do IBM, Google, Lockheed Martin, the National Security Agency, Microsoft, AT&amp;T, Airbus, and Fujitsu have in common? They all want a piece of the quantum cake.</td><td>IBM，谷歌，洛克希德马丁（美国航空航天公司），美国国家安全局，微软，AT＆T，空客和富士通，它们之间有什么共同之处？他们都想从量子领域中分得一块蛋糕。</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://p2qnogvkv.bkt.clouddn.com/image/translation/TransClub_v1_1.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;本期成果&quot;&gt;&lt;a href=&quot;#本期成果&quot; class=&quot;headerlink&quot; title=&quot;本期成果&quot;&gt;&lt;/a&gt;本期成果&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://cloud.tencent.com/developer/article/1161345&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;给数据科学家的十条数据安全建议&lt;/a&gt;（专栏采纳）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cloud.tencent.com/developer/article/1161341&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;SSH 尝试攻击是什么样子的&lt;/a&gt;（专栏采纳）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cloud.tencent.com/developer/article/1165213&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;量子跃迁：量子计算对加密技术来说意味着什么？&lt;/a&gt;（专栏采纳）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cloud.tencent.com/developer/article/1180081&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;做这 12 件简单的小事，能让你更安全地上网&lt;/a&gt;（个人专栏）&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="翻译" scheme="http://blog.StoneAndFish.xyz/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+      <category term="Translation" scheme="http://blog.StoneAndFish.xyz/tags/Translation/"/>
+    
+      <category term="技术文档翻译" scheme="http://blog.StoneAndFish.xyz/tags/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="腾讯云+翻译社" scheme="http://blog.StoneAndFish.xyz/tags/%E8%85%BE%E8%AE%AF%E4%BA%91-%E7%BF%BB%E8%AF%91%E7%A4%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>[翻译社第六期] 深入了解微服务技术</title>
