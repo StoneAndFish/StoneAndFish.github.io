@@ -109,20 +109,21 @@
 
 
 
-  <meta name="description" content="前言近两月公司项目少，主要精力都放在 HAL1 到 HAL3 的业务迁移学习中。花了蛮多时间看代码，也试着写了 Open Camera 的流程分析文档，发在了我的 CSDN 博客里。 当然整天只能看看看看看代码，是真的很容易觉得枯燥的。即便是对 Google 和 QCom 的这些比较赏心悦目的代码风格来说，连续看两三个小时也是会开始心不在焉的。于是我搬出了大四时候买的《Effective C++》">
+  <meta name="description" content="前言近两月公司项目少，主要精力都放在 HAL1 到 HAL3 的业务迁移学习中。花了蛮多时间看代码，也试着写了 Open Camera 的流程分析文档，发在了我的 CSDN 博客里。 当然整天只能看看看看看代码，是真的很容易觉得枯燥的。即便是对 Google 和 QCom 的这些比较赏心悦目的代码风格来说，连续看两三个小时也是会开始心不在焉的。于是我搬出了大四时候买的《Effective C++">
 <meta name="keywords" content="编程技术,温故知新">
 <meta property="og:type" content="article">
 <meta property="og:title" content="[多读好书]《Effective C++》回顾">
 <meta property="og:url" content="http://blog.StoneAndFish.xyz/2018/09/13/EffectiveC-1st/index.html">
 <meta property="og:site_name" content="石锅鱼的锅">
-<meta property="og:description" content="前言近两月公司项目少，主要精力都放在 HAL1 到 HAL3 的业务迁移学习中。花了蛮多时间看代码，也试着写了 Open Camera 的流程分析文档，发在了我的 CSDN 博客里。 当然整天只能看看看看看代码，是真的很容易觉得枯燥的。即便是对 Google 和 QCom 的这些比较赏心悦目的代码风格来说，连续看两三个小时也是会开始心不在焉的。于是我搬出了大四时候买的《Effective C++》">
+<meta property="og:description" content="前言近两月公司项目少，主要精力都放在 HAL1 到 HAL3 的业务迁移学习中。花了蛮多时间看代码，也试着写了 Open Camera 的流程分析文档，发在了我的 CSDN 博客里。 当然整天只能看看看看看代码，是真的很容易觉得枯燥的。即便是对 Google 和 QCom 的这些比较赏心悦目的代码风格来说，连续看两三个小时也是会开始心不在焉的。于是我搬出了大四时候买的《Effective C++">
 <meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="http://p2qnogvkv.bkt.clouddn.com/image/Effectivecpp1st/ola-layflat-notebook-Curve-print-Yellow.png">
 <meta property="og:image" content="http://p2qnogvkv.bkt.clouddn.com/image/Effectivecpp1st/EFC++%E7%AC%94%E8%AE%B0%E6%A0%B7%E4%BE%8B.jpg">
-<meta property="og:updated_time" content="2018-09-13T12:18:19.693Z">
+<meta property="og:updated_time" content="2018-09-13T13:08:10.405Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="[多读好书]《Effective C++》回顾">
-<meta name="twitter:description" content="前言近两月公司项目少，主要精力都放在 HAL1 到 HAL3 的业务迁移学习中。花了蛮多时间看代码，也试着写了 Open Camera 的流程分析文档，发在了我的 CSDN 博客里。 当然整天只能看看看看看代码，是真的很容易觉得枯燥的。即便是对 Google 和 QCom 的这些比较赏心悦目的代码风格来说，连续看两三个小时也是会开始心不在焉的。于是我搬出了大四时候买的《Effective C++》">
-<meta name="twitter:image" content="http://p2qnogvkv.bkt.clouddn.com/image/Effectivecpp1st/EFC++%E7%AC%94%E8%AE%B0%E6%A0%B7%E4%BE%8B.jpg">
+<meta name="twitter:description" content="前言近两月公司项目少，主要精力都放在 HAL1 到 HAL3 的业务迁移学习中。花了蛮多时间看代码，也试着写了 Open Camera 的流程分析文档，发在了我的 CSDN 博客里。 当然整天只能看看看看看代码，是真的很容易觉得枯燥的。即便是对 Google 和 QCom 的这些比较赏心悦目的代码风格来说，连续看两三个小时也是会开始心不在焉的。于是我搬出了大四时候买的《Effective C++">
+<meta name="twitter:image" content="http://p2qnogvkv.bkt.clouddn.com/image/Effectivecpp1st/ola-layflat-notebook-Curve-print-Yellow.png">
 
 
 
@@ -420,7 +421,8 @@
       
 
       
-        <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>近两月公司项目少，主要精力都放在 HAL1 到 HAL3 的业务迁移学习中。花了蛮多时间看代码，也试着写了 Open Camera 的流程分析文档，发在了<a href="https://blog.csdn.net/qq_16775897" target="_blank" rel="noopener">我的 CSDN 博客</a>里。</p>
+        <p><img src="http://p2qnogvkv.bkt.clouddn.com/image/Effectivecpp1st/ola-layflat-notebook-Curve-print-Yellow.png" alt=""></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>近两月公司项目少，主要精力都放在 HAL1 到 HAL3 的业务迁移学习中。花了蛮多时间看代码，也试着写了 Open Camera 的流程分析文档，发在了<a href="https://blog.csdn.net/qq_16775897" target="_blank" rel="noopener">我的 CSDN 博客</a>里。</p>
 <p>当然整天只能看看看看看代码，是真的很容易觉得枯燥的。即便是对 Google 和 QCom 的这些比较赏心悦目的代码风格来说，连续看两三个小时也是会开始心不在焉的。于是我搬出了大四时候买的《Effective C++》，开始（在看腻了代码的时候）慢慢啃了起来。<br><a id="more"></a></p>
 <p>刚买这本书的时候，我也是啃过一部分的，但是只是很小一部分，大概只是看到了第二章。那时候学习效率不高，自己的代码实践经验也少之又少，难以体会作者所描述的细节，看书的时候感觉无法提炼出核心内容，仿佛每一个字都是重点一般。</p>
 <p>到了现在，工作一年有余，有了一些实践经验，看过、分析了不少出自 Google、QCom 工程师之手的优秀代码，再来看看书中的内容，果然理解起来顺畅了许多！</p>
